@@ -30,7 +30,7 @@ BrandWorth LLC is a private company that helps clients understand and maximize t
 - **Sprint Reports Folder:** https://drive.google.com/drive/folders/1N8-XHKurkfzHjDRHY2qMBIrMam2P4vNc?usp=sharing
 - **Full End-to-End Demo**: https://docs.google.com/document/d/1fwVptaGiBIg1XAFuJZPWCMl43Ax_mK1J4Dt9KqlWFmI/edit?usp=sharing
 - **373 Final Report**: https://docs.google.com/document/d/1KF7OS7jTiTJO0D5qUa7WVCeHU2H6WyGCCfQd5YtIypU/edit?usp=sharing
-
+- **User Story Ideas**: https://docs.google.com/document/d/1HcGTtdb54LvxpFAKs69SqaMSMNvWEUNuZ4MxIY7ScVU/edit?usp=sharing
 
 ## Attached Documents
 
