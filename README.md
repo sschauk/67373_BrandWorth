@@ -36,6 +36,7 @@ BrandWorth LLC is a private company that helps clients understand and maximize t
 
 - **Executive Summary.pdf** — A concise, two-page summary of the project including background, outcomes, and recommendations.
 - **Airtable Documentation.pdf** — Technical overview of the Airtable system design, including databases, automations, and logic flow.
+- **BrandWorth.drawio** - A data flow diagram of BrandWorth's Airtable solution logic.
   
 ---
 
