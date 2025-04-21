@@ -27,6 +27,7 @@ BrandWorth LLC is a private company that helps clients understand and maximize t
 
 - **Airtable Solution (Live Workspace View):** https://airtable.com/appi8MYEi8EBvORdz/tblFc5EDeYYMHYD70/viwBYsCZqEQho2RDU?blocks=hide
 - **Zoom Recordings Folder:** https://drive.google.com/drive/folders/1GYrZ9SUqzoinnFVr5hoEyVtI7wvRt-sv?usp=sharing
+- **Sprint Reports Folder:** https://drive.google.com/drive/folders/1N8-XHKurkfzHjDRHY2qMBIrMam2P4vNc?usp=sharing
 
 ## Attached Documents
 
