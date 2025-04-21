@@ -28,12 +28,15 @@ BrandWorth LLC is a private company that helps clients understand and maximize t
 - **Airtable Solution (Live Workspace View):** https://airtable.com/appi8MYEi8EBvORdz/tblFc5EDeYYMHYD70/viwBYsCZqEQho2RDU?blocks=hide
 - **Zoom Recordings Folder:** https://drive.google.com/drive/folders/1GYrZ9SUqzoinnFVr5hoEyVtI7wvRt-sv?usp=sharing
 - **Sprint Reports Folder:** https://drive.google.com/drive/folders/1N8-XHKurkfzHjDRHY2qMBIrMam2P4vNc?usp=sharing
+- **Full End-to-End Demo**: https://docs.google.com/document/d/1fwVptaGiBIg1XAFuJZPWCMl43Ax_mK1J4Dt9KqlWFmI/edit?usp=sharing
+- **373 Final Report**: https://docs.google.com/document/d/1KF7OS7jTiTJO0D5qUa7WVCeHU2H6WyGCCfQd5YtIypU/edit?usp=sharing
+
 
 ## Attached Documents
 
 - **Executive Summary.pdf** — A concise, two-page summary of the project including background, outcomes, and recommendations.
 - **Airtable Documentation.pdf** — Technical overview of the Airtable system design, including databases, automations, and logic flow.
-
+  
 ---
 
 ## Team Information
